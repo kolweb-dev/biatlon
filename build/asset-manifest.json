@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kolweb-dev.io/biatlonTable/static/css/main.3574ed02.chunk.css",
+    "main.js": "/kolweb-dev.io/biatlonTable/static/js/main.f41c6368.chunk.js",
+    "main.js.map": "/kolweb-dev.io/biatlonTable/static/js/main.f41c6368.chunk.js.map",
+    "runtime-main.js": "/kolweb-dev.io/biatlonTable/static/js/runtime-main.154b4eb5.js",
+    "runtime-main.js.map": "/kolweb-dev.io/biatlonTable/static/js/runtime-main.154b4eb5.js.map",
+    "static/js/2.2806cdfb.chunk.js": "/kolweb-dev.io/biatlonTable/static/js/2.2806cdfb.chunk.js",
+    "static/js/2.2806cdfb.chunk.js.map": "/kolweb-dev.io/biatlonTable/static/js/2.2806cdfb.chunk.js.map",
+    "index.html": "/kolweb-dev.io/biatlonTable/index.html",
+    "precache-manifest.448322bf809a81551cbf02fddf1869ff.js": "/kolweb-dev.io/biatlonTable/precache-manifest.448322bf809a81551cbf02fddf1869ff.js",
+    "service-worker.js": "/kolweb-dev.io/biatlonTable/service-worker.js",
+    "static/css/main.3574ed02.chunk.css.map": "/kolweb-dev.io/biatlonTable/static/css/main.3574ed02.chunk.css.map",
+    "static/js/2.2806cdfb.chunk.js.LICENSE.txt": "/kolweb-dev.io/biatlonTable/static/js/2.2806cdfb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.154b4eb5.js",
+    "static/js/2.2806cdfb.chunk.js",
+    "static/css/main.3574ed02.chunk.css",
+    "static/js/main.f41c6368.chunk.js"
+  ]
+}
